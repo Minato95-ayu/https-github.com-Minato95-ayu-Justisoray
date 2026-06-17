@@ -1,0 +1,6 @@
+{
+  "name": "Justisoray",
+  "description": "Don't Read The Law. Experience It. Immersive, cinematic visual simulations that transform complex legal procedures, rights, timelines, and investigations into tactile 3D-style learning experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
